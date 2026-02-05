@@ -1,5 +1,5 @@
 # nomix-recruiter 🛡️
-A NoMix-Shield resume bot that prevents cross-candidate contamination using strict metadata filtering + Chroma vector DB.
+A NoMix-Shield resume bot that prevents cross-candidate contamination using strict metadata filtering
 
 ## Features
 - Upload 20+ resumes (and mixed random docs)
