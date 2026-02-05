@@ -10,7 +10,7 @@ The system is built using a **metadata-filtered RAG (Retrieval-Augmented Generat
 
 👉 **Deployed App:**  
 
-*(Replace this with your actual deployment link if different.)*
+*https://nomixgit-7hcfrfhla5hejozeicfpes.streamlit.app/*
 
 ---
 
